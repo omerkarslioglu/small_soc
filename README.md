@@ -109,7 +109,7 @@ The computer architecture is implemented on the PL side of the Zybo Z20. Seven s
 
 ---
 
-Please, do not hesitate to ask me any question on your mind.
+Please, do not hesitate to ask me any question in your mind.
 
 omerkarsliogluu@gmail.com
 
